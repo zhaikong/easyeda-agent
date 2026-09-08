@@ -19,7 +19,6 @@
 
 # Editor
 .idea/
-.vscode/
 
 # Node
 node_modules/
@@ -36,3 +35,4 @@ videos/
 *.journal.jsonl
 
 docs/video-material
+config.bat
