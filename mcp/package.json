@@ -8,7 +8,7 @@
     "easyeda-agent-mcp": "src/server.mjs"
   },
   "scripts": {
-    "start": "node src/server.mjs",
+    "start": "node init && node src/server.mjs",
     "test": "node --test test/*.test.mjs"
   },
   "engines": {
